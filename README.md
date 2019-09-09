@@ -2,3 +2,4 @@
 
 I use https://github.com/webchain-network/webchain-miner project to compile base on arm64 webchain-miner.
 You can use it on Termux (maybe it can works on Raspberry Pi. I didn't try that.).
+The binary source is same to https://github.com/webchain-network/webchain-miner .
